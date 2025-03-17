@@ -196,17 +196,6 @@ header {
 }
 
 /* Skills Styles */
-.skills-category {
-    margin-bottom: 1.5rem;
-}
-
-.skills-category h3 {
-    margin-bottom: 0.75rem;
-    font-size: 1.1rem;
-    color: var(--secondary-color);
-    padding-left: 0.25rem;
-}
-
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
